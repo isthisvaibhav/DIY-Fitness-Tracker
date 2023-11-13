@@ -22,27 +22,3 @@ Copy url > open with chrome
 Connect Bluetooth (orange light)
 Start workout
 Safari > fire base > get started > micro > real-time database >personal
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
