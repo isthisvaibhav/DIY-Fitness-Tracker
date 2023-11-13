@@ -1,6 +1,6 @@
 # DIY-Fitness-Tracker
 
-Connect hardware to laptop
+Connect hardware to laptop<br>
 Downloads > Arduino nano 33 Ble sense > flash_max command (open with terminal )
 Close terminal
 Open new terminal
